@@ -73,6 +73,6 @@ ECHO %OPENING_DIRECTORY%
 explorer https://github.com/PARK4139/%OPENING_DIRECTORY%
 del /f "git push by auto.py"
 @REM echo %~n0.log
-@REM timeout 15
+timeout 15
 @REM pause
 
