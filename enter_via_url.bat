@@ -1,1 +1,2 @@
-explorer "https://fantastic-gingersnap-b0bab4.netlify.app/puppyGalleryCatalog.pdf"
+explorer "https://puppy-gallery-catalog.netlify.app/index.html"
+explorer "https://puppy-gallery-catalog.netlify.app/puppyGalleryCatalog.pdf"
