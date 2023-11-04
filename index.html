@@ -7,45 +7,51 @@
 	<title>퍼피갤러리 카탈로그</title>
 	<style>
 		.position0 {
-			/* 텍스트 */
-			color: black;
-			font-family: Merriweather, Georgia, serif;
 			/* font-family: Merriweather, Georgia, serif; */
-			font-size: 21px;
-			text-align: center;
 			/* line-height: 100px; */
-			display: flex;
-			justify-content: center;
-			align-items: center;
-			/* 배경 */
-			background-color: ivory;
-			height:370px;
 			/* width: 300px; */
-			/* 하위 요소 위치기준 설정 */
+			align-items: center;
+			background-color: ivory;
+			color: black;
+			display: flex;
+			font-family: Merriweather, Georgia, serif;
+			font-size: 21px;
+			height:370px;
+			justify-content: center;
 			position: relative;
+			text-align: center;
 			/*___________________________________________________________________ 디버깅용 코드 s */
-			outline: dashed 1px red;                    
+			/* outline: dashed 1px red;                     */
 			/*___________________________________________________________________ 디버깅용 코드 e */
 		}
 		.position1 {
-			/* 텍스트 */
-			text-align: center;
-			color: black;
 			/* font-family: 'Noto Sans KR', sans-serif; */
 			/* font-family: 'Noto Serif KR', serif; */
-			font-family: 'Playfair Display', serif;
 			/* line-height: 300px; */
-			display: flex;
-			justify-content: center;
 			align-items: center;
+			color: black;
+			display: flex;
+			display: inline-block; 
+			font-family: 'Playfair Display', serif;
+			height:"100"; 
+			justify-content: center;
+			margin: 0 auto;
+			text-align: center;
+			width:"100";
 		} 
 	</style>
 </head>
 <body>
 	
 	<div class="position0"> 
-		<img src="puppy_gallery_catalog_qr_code.png" href="puppyGalleryCatalog.pdf" alt="PDF 파일이 아직 준비되고 있습니다. 빠른 시일내에 다시 뵙겠습니다" title="PDF 파일" width="100" height="100" style="display: inline-block; margin: 0 auto;">
+		<img  
+		class="position1" 
+		src="puppy_gallery_catalog_qr_code.png" href="puppyGalleryCatalog.pdf" alt="PDF 파일이 아직 준비되고 있습니다. 빠른 시일내에 다시 뵙겠습니다" title="PDF 파일" >
 	</div>
+	
+	
+	
+	
 	
 </body>
 
