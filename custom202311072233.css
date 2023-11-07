@@ -1,0 +1,86 @@
+/* mkr */
+
+* {
+	/* outline: dashed 1px red;  */
+}
+
+.blank202311041318 {
+	align-items: center;
+	background-color: ivory;
+	display: flex;
+	height:1px;
+	/* justify-content: center; */
+	/* position: relative; */
+}
+.container202311041315 {
+	/* font-family: Merriweather, Georgia, serif; */
+	/* line-height: 100px; */
+	/* width: 300px; */
+	align-items: center;
+	background-color: ivory;
+	color: black;
+	display: flex;
+	font-family: Merriweather, Georgia, serif;
+	/* font-size: 21px; */
+	/* height:800px; */
+	justify-content: center;
+	/* position: relative; */
+	text-align: center;
+}
+.image202311041316 {
+	/* font-family: 'Noto Sans KR', sans-serif; */
+	/* font-family: 'Noto Serif KR', serif; */
+	/* line-height: 300px; */
+	/* align-items: center; */
+	/* color: black; */
+	/* display: flex; */
+	/* display: inline-block;  */
+	/* font-family: 'Playfair Display', serif; */
+	/* justify-content: center; */
+	/* margin: 0 auto; */
+	/* text-align: center; */
+	/* width:50%; */
+	width:270px;
+	/* height:40%;  */
+} 
+.container202311041317 {
+	text-align: center;
+	font-size: 17px;
+	margin: 10px auto;
+	text-decoration : none;
+} 
+
+a{
+	text-decoration: none;
+}
+a:link {
+	color : black;
+}
+a:visited {
+	color : black;
+}
+a:hover { 
+	color : black;
+}
+a:active {
+	color : black;
+}
+
+.container202311041258{
+	text-decoration: none;
+}
+.container202311041258:link {
+	color : black;
+}
+.container202311041258:visited {
+	color : black;
+}
+.container202311041258:hover { 
+	color : black;
+}
+.container202311041258:active {
+	color : pink;
+}
+
+
+/* mkr */
