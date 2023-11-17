@@ -7,6 +7,7 @@
 .blank202311041318 {
 	align-items: center;
 	background-color: ivory;
+	/* background-color: white; */
 	display: flex;
 	height:1px;
 	/* justify-content: center; */
@@ -18,6 +19,7 @@
 	/* width: 300px; */
 	align-items: center;
 	background-color: ivory;
+	/* background-color: white; */
 	color: black;
 	display: flex;
 	font-family: Merriweather, Georgia, serif;
@@ -49,7 +51,12 @@
 	margin: 10px auto;
 	text-decoration : none;
 } 
-
+.container202311041319 {
+	text-align: center;
+	font-size: 10px;
+	margin: 10px auto;
+	text-decoration : none;
+} 
 a{
 	text-decoration: none;
 }
