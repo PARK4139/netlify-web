@@ -13,7 +13,6 @@
 
 
 # 개발환경(IT WORKS IN ENVIRONMENT BELOW)
-- PYTHON3.10 
 - html 
 - js 
 - css 
@@ -26,7 +25,7 @@
 
 # 개발완료사항(DEVELOPMENT DONE)
 - 2023 11 26 21:03:49 프로그램의 프로젝트 구조 생성
-- 2023 11 29 10:45:11 프로젝트 종료 잠정 
+- 2023 12 01 02:47:59 프로젝트 종료 잠정 
  
 
  # 사용예시(example)
