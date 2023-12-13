@@ -21,7 +21,7 @@
 - 2023 12 12 11:18:52 웹리소스 사진 업데이트
  
  # 사용예시(example)
-https://red-steps.netlify.app/index.html
-https://red-steps.netlify.app/sky1.jpg
-https://red-steps.netlify.app/puppy_gallery_catalog.pdf
-https://red-steps.netlify.app/rpa_program.png
+- https://red-steps.netlify.app/index.html
+- https://red-steps.netlify.app/sky1.jpg
+- https://red-steps.netlify.app/puppy_gallery_catalog.pdf
+- https://red-steps.netlify.app/rpa_program.png
