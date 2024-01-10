@@ -25,3 +25,8 @@
 - https://red-steps.netlify.app/sky1.jpg
 - https://red-steps.netlify.app/puppy_gallery_catalog.pdf
 - https://red-steps.netlify.app/rpa_program.png
+
+
+
+# TO DO LIST
+- 엑셀 및 다양한 확장자 테스트 해볼것.
