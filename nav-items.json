@@ -1,11 +1,4 @@
-{
-  "boards": [
-    {
-      "id": 1,
-      "title": "1",
-      "contents": "1"
-    }
-  ],
+{ 
   "nav-items": [
     {
       "id": "0",
