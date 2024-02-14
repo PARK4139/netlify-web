@@ -21,7 +21,7 @@ cls
 ::set commit_ment=%yyyyMMddHHmmss%
 ::set commit_ment=Test Push
 ::set commit_ment=Refer to README.md (commited at %yyyyMMddHHmmss%)
-set commit_ment=json db deploying test
+set commit_ment=정적 리소스 배포자료 업데이트
 
 :: GIT PUSH
 git add *  
